@@ -1,0 +1,111 @@
+---
+title: "Keterampilan Kepemimpinan Agribisnis"
+author: "Tedy Herlambang"
+date: "`r Sys.Date()`"
+output:
+  prettydoc::html_pretty:
+    theme: leonids
+    highlight: github
+---
+
+### Deskripsi Mata Kuliah
+
+#### Kode Mata Kuliah: PAGR2637
+#### SKS/Pertemuan: 3/16
+
+Mata kuliah ini membahas tentang kepemimpinan,pengelolaan SDM, dan pentingnya memiliki keterampilan kepemimpinan bagi seorang manajer agribisnis. Ketidakpastian yang muncul dari perubahan lingkungan, memunculkan tantangan sendiri bagi perusahaan agribisnis modern. Calon manajer agribisnis harus membekali diri dengan keterampilan-keterampilan yang tepat agar dapat berperan sebagai pemimpin yang efektif situasi yang semakin kompleks dan seringkali mengakibatkan stres.
+
+### Tujuan Pembelajaran
+
+Tujuan pemberian mata kuliah ini adalah membekali mahasiswa dengan beberapa keterampilan dan berbagai "alat" yang dapat diterapkan walaupun situasi yang dihadapi berbeda, mutu karyawan yang dipimpin berbeda dan persoalan yang dihadapi juga berbeda di bidang Agribisnis.
+
+### Sekilas Materi
+
+Perkuliahan dilakukan sebanyak 14 kali pertemuan dan 2 kali pertemuan untuk
+ujian tengah semester (**UTS**) dan ujian akhir semester (**UAS**). Topik-topik yang akan dibahas sebagai berikut:
+
+* [Minggu 1 Fondasi Kepemimpinan dan Pengelolaan Sumberdaya Manusia]
+* [Minggu 2 Kinerja Personal dan Pengelolaan Stress]
+* [Minggu 3 Komunikasi di Tempat Kerja]
+* [Minggu 4 Motivasi dan Pemberdayaan Karyawan]
+* [Minggu 5 ] Memimpin dan Mengelola Tim
+* [Minggu 6 ] Kemunculan Pemimpin Wanita
+* Minggu 7 Studi kasus aktual kepemimpinan di perusahaan Agribisnis Nasional
+* Minggu 8 **UJIAN TENGAH SEMESTER**
+* [Minggu 9 ] Pengelolaan Kekuasaan, Politik dan Konflik
+* [Minggu 10 ] Memimpin Perubahan Organisasi dan Budaya
+* [Minggu 11 ] Inovasi dan Pembelajaran Organisasi
+* [Minggu 12 ] Mengelola Pengetahuan Karyawan dan Kekayaan Intelektual
+* [Minggu 13 ] Kepemimpinan dalam Organisasi Virtual
+* [Minggu 14 ] Kepemimpinan dan Etika Bisnis
+* Minggu 15 Studi Kasus kepemimpinan aktual dalam perusahaan agribisnis nasional 
+* Minggu 16 **UJIAN AKHIR SEMESTER**
+
+### Kegiatan Pembelajaran
+
+Pelaksanaan Pembelajaran Semester Genap Tahun Akademik 2O22/2O23 dilakukan secara luring dan/atau daring sesuai dengan kebutuhan. Metode perkuliahan adalah kombinasi antara ceramah, diskusi, latihan dan presentasi kelompok. Mahasiswa harap selalu memperhatikan informasi yang disampaikan dosen di WAG yang sudah dibentuk. 
+
+Untuk dapat mengikuti perkuliahan dengan baik, mahasiswa sebaiknya membaca terlebih dahulu buku acuan pada bab-bab yang sesuai dengan materi pada minggu yang berkaitan dan mengerjakan tugas/latihan yang diberikan pada saat perkuliahan. Mahasiswa harus mereview semua bahan yang diberikan selama 14 kali untuk persiapan UTS dan UAS. 
+
+### Buku Acuan
+
+1. Forster, Nick (2005). Maximum Performance. A Practical Guide to Leading and Managing People at Work. Edward Elgar Publishing.
+2. Lussier, Robert N. dan Christopher F. Achua (2016). Leadership: Theory, Application, & Skill Development, sixth edition. Cengage Learning.
+3. Nuthall, Peter L. (2019). Farm business management : the human factor. Second edition. CABI.
+4. Jordan, John P., Gale A. Buchanan, Neville P. Clarke & Kelly C. (2013) Leadership in Agriculture Case Studies for a New Generation. Concise Eighth Edition. Cengage Learning.
+5. Van Fleet, David D., Ella W. Van Fleet, and George J. Seperich (2014). Agribusiness: Principles of Management. Cengage Learning.
+
+### Evaluasi dan Penilaian
+
+Nilai Akhir untuk mata kuliah Manajemen Keuangan Agribisnis terdiri dari nilai ujian tengah semester (UTS), nilai ujian akhir semester (UAS) dan nilai komponen lain (KL). Nilai KL terdiri dari tugas individu, tugas kelompok, presentasi, kehadiran dan keaktifan selama perkuliahan. 
+
+### Tugas Individu/Kelompok
+
+Tugas diberikan pada saat kuliah dan wajib dikerjakan oleh mahasiswa dan hasilnya dikumpulkan sesuai dengan waktu yang telah ditetapkan. Keterlambatan pengumpulan tugas akan mengurangi nilai sebesar 10 satuan per hari dengan batas maksimum keterlambatan 5 hari.
+
+### Persebaran Nilai
+
+1. UTS dan UAS dilakukan melalui ujian tertulis dengan bobot maksimum 60%
+
+2. KL dinilai melalui keaktifan mahasiswa pada aktivitas pembelajaran (tugas-tugas, diskusi, presentasi dan kehadiran) dengan bobot 40%.
+
+### Selang Penilaian
+
+|No|Nilai|Bobot|Min|Max|Lulus|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|1  | A |4.00|80|100|Y|
+|2  |B+|3.50|75|79.9|Y|
+|3 | B |3.00 | 70|74.9|Y|
+|4 | C+ | 2.75| 65| 69.9| Y|
+|5|C|2.00|60|64.9|Y|
+|6|D+|1.50| 55 |59.9| T|
+|7|D|1| 45|54.9| T|
+|8|E|0|0|44.9| T|
+
+### Kejujuran Akademik dan Plagiarisme 
+
+Mahasiswa harus mengikuti kebijakan dan aturan Universitas tentang kejujuran akademik dan plagiarisme seperti yang tertuang dalam pedoman akademik. Pelanggaran terhadap kebijakan tentang kejujuran akademik dan plagiarisme akan diberikan sanksi berupa surat teguran, diberi nilai nol, skorsing sampai dikeluarkan dari Universitas.
+
+### Kehadiran dan Disiplin Mahasiswa
+
+Jika tidak ada perberitahuan sebelumnya oleh Dosen, untuk perkuliahan yang dilakukan secara *luring* atau *daring*:
+
+1. Hadir paling lambat 15 menit. Mahasiswa **TIDAK DIPERKENANKAN** masuk kelas setelah 15 menit kuliah dimulai.
+
+2. Berpenampilan dan berbusana sopan.
+
+3. Tidak menggunakan sandal atau sejenisnya, tidak mengoperasikan ponsel/laptop kecuali diminta untuk keperluan perkuliahan.
+
+4. Mahasiswa wajib mengikuti perkuliahan minimal 80 persen dari total 14 kali pertemuan, kecuali dengan alasan dan bukti yang valid.
+
+5. Mahasiswa yang menyelesaikan kurang dari 50% tugas-tugas/ujian yang diberikan akan diberi nilai **E** (tidak lulus). 
+
+6. **Tidak ada ujian dan penugasan perbaikan**.
+
+### Tindak Kekerasan dan Pelecehan
+
+Mahasiswa harus selalu menjaga sopan santun dan menghormati semua dosen, tenaga pendidikan, petugas keamanan, tenaga kesehatan dan sesama mahasiswa. Perilaku dan tindak kekerasan serta pelecehan yang mendisrupsi kegiatan pembelajaran, mengakibatkan kerusakan fasilitas dan properti kampus, akan diproses sesuai dengan aturan yang berlaku.
+
+### Evaluasi Perkuliahan dan Dosen
+
+Masukan mahasiswa untuk tujuan perbaikan perkuliahan akan diperhatikan dengan sangat serius. Mahasiswa sangat diharapkan menyisihkan waktu di setiap akhir semester untuk memberikan masukan dan evaluasi terkait dengan pelaksanaan perkuliahan dan dosen pengajar. Evaluasi dan masukan yang diberikan tidak akan mempengaruhi kelulusan dan nilai akhir.
