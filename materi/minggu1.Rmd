@@ -1,0 +1,75 @@
+---
+title: "Dasar-Dasar Kepemimpinan"
+author: "Tedy Herlambang"
+date: "`r Sys.Date()`"
+output:
+  prettydoc::html_pretty:
+    theme: leonids
+    highlight: github
+---
+
+## Tujuan Pembelajaran
+
+Setelah mempelajari materi ini mahasiswa diharapkan mampu:
+
+1. Mendefinisikan kepemimpinan, manajemen dan organisasi.
+2. Menjelaskan perdebatan "pemimpin dilahirkan atau diciptakan".
+3. Menjelaskan peran dan tanggung jawab pemimpin dan manajer.
+4. Menjelaskan peran dari kemampuan tranformasional, karisma dan visi dalam kepemimpinan dan manajemen SDM.
+5. Menjelaskan sisi gelap dari kepemimpinan.
+
+## Definisi Kepemimpinan dan Manajemen
+
+`The beginning of wisdom lies in the definition of terms` Socrates.
+
+- Leadership: a way, road, path or journey (jalan, cara, jalur, perjalanan..., pandu )
+- Manajemen: to make things by hand (menyelesaikan)
+- Organisasi: alat, sarana --> untuk menyelesaikan sesuatu dengan efisien dan efektif.
+  + Organisasi: besar, menengah, kecil, profit, non profit.
+
+## Perbedaan Kepemimpinan dan Manajemen
+
+- Leadership is usually concerned with what needs to be done – management often focuses on how things should be done
+- Leadership is primarily concerned with relationships – management is often concerned with tasks
+- Leaders have to think outside the square – managers usually think within it.
+- Leaders try to find ways to enhance and improve their employees’
+performance – managers are primarily concerned with controlling and monitoring performance.
+- Leaders are comfortable with change and possess a change-oriented,
+outward-looking view of the future. Managers may feel uncomfortable about the prospect of change, and often focus on maintaining the status quo or ‘the way we do things around here’
+- Leaders are able to step into the unknown – managers often have to be shown why they should take such a step
+
+## Apakah Pemimpin Dilahirkan atau Diciptakan?
+
+Tiga Pendapat:
+
+- Potensi seseorang ditentukan oleh faktor keturunan saja
+- Potensi seseorang ditentukan oleh kombinasi faktor keturunan dan pengalaman sosialisasi.
+- Potensi seseorang ditentukan oleh pengalaman sosialisasi setelah lahir.
+
+### Menurut Anda bagaimana? Are leaders born or made?
+
+- Every year, tens of thousands of employees attend leadership/management courses all over the world, be this in the form of one-off workshops or through attendance at post-graduate courses, such as MBAs and other specialist postgraduate management programs.
+- The pivotal decision to become a leader and learn new skills and competencies to realize this goal often occurs in real life. 
+
+## Apa yang dikerjakan oleh seorang Pemimpin?
+
+- Goal setter and motivator
+- Coach and mentor
+- Shaker and stirrer
+- Interpreter
+- Linch-pin
+- Helicopter
+- White-water rafter
+
+## Sisi Gelap Kepemimpinan
+
+- Incompetent
+- Undermining, bullying or intimidating their staff
+- Toxic personalities: impatience, arrogance, perfectionism, defensiveness, rigidity, bluntness and a large capacity for holding grudges
+- Politicians, throughout the world, seem to be particularly prone to fraud and corruption and the financial and sexual temptations that come with high office
+- Obsession with money, status, power and control 
+
+# TUGAS INDIVIDU
+
+Pemimpin seperti apa yang Anda kagumi: dalam hal penampilan, kepribadian dan perilaku dan kompetensi? (masing-masing tiga item dan jelaskan item-item tersebut)
+
