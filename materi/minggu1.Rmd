@@ -1,5 +1,5 @@
 ---
-title: "Dasar-Dasar Kepemimpinan"
+title: "Dasar Kepemimpinan dan Pengelolaan SDM"
 author: "Tedy Herlambang"
 date: "`r Sys.Date()`"
 output:
@@ -18,58 +18,60 @@ Setelah mempelajari materi ini mahasiswa diharapkan mampu:
 4. Menjelaskan peran dari kemampuan tranformasional, karisma dan visi dalam kepemimpinan dan manajemen SDM.
 5. Menjelaskan sisi gelap dari kepemimpinan.
 
+**Perlu diperhatikan: apa yang disampaikan disini hanyalah ringkasan dari materi yang ada dibuku referensi. Penyingkatan kalimat dan definisi sering dilakukan sehingga mungkin bisa menimbulkan salah tafsir. Mahasiswa disarankan untuk membaca buku Forster, N. (2005) Bab 1**
+
 ## Definisi Kepemimpinan dan Manajemen
 
-`The beginning of wisdom lies in the definition of terms` Socrates.
+Socrates: *The beginning of wisdom lies in the definition of terms*
 
 - Leadership: a way, road, path or journey (jalan, cara, jalur, perjalanan..., pandu )
-- Manajemen: to make things by hand (menyelesaikan)
+- Manajemen: to make things by hand (mengerjakan dan menyelesaikan)
 - Organisasi: alat, sarana --> untuk menyelesaikan sesuatu dengan efisien dan efektif.
   + Organisasi: besar, menengah, kecil, profit, non profit.
 
 ## Perbedaan Kepemimpinan dan Manajemen
 
-- Leadership is usually concerned with what needs to be done – management often focuses on how things should be done
-- Leadership is primarily concerned with relationships – management is often concerned with tasks
-- Leaders have to think outside the square – managers usually think within it.
-- Leaders try to find ways to enhance and improve their employees’
-performance – managers are primarily concerned with controlling and monitoring performance.
-- Leaders are comfortable with change and possess a change-oriented,
-outward-looking view of the future. Managers may feel uncomfortable about the prospect of change, and often focus on maintaining the status quo or ‘the way we do things around here’
-- Leaders are able to step into the unknown – managers often have to be shown why they should take such a step
+- Kepemimpinan berkaitan dengan apa yang perlu dikerjakan- manajemen fokus pada bagaimana sesuatu itu dikerjakan. 
+- Kepemimpinan terutama hubungan (antar manusia)- manajemen utamanya tugas
+- Pemimpin harus berpikir diluar organisasi - manajer berpikir di dalamnya.
+- Pemimpin mencari cari meningkatkan kinerja karyawan - manajer mengontrol dan memonitor kinerja. 
+- Pemimpin: biasa dengan perubahan dan beorientasi pada perubahan, keluar dan masa depan - manajer: mempertahankan status quo. 
+- Pemimpin mampu melangkah ke dalam sesuatu yang belum diketahui hasilnya/berisiko - manajer harus diberitahu *why they should take such a step*.
+
+*Adakah tumpang tindih antara pemimpin dengan manajer?* 
 
 ## Apakah Pemimpin Dilahirkan atau Diciptakan?
 
-Tiga Pendapat:
+**Tiga Pendapat**:
 
 - Potensi seseorang ditentukan oleh faktor keturunan saja
 - Potensi seseorang ditentukan oleh kombinasi faktor keturunan dan pengalaman sosialisasi.
 - Potensi seseorang ditentukan oleh pengalaman sosialisasi setelah lahir.
 
-### Menurut Anda bagaimana? Are leaders born or made?
+## Menurut Anda bagaimana? Are leaders born or made?
 
-- Every year, tens of thousands of employees attend leadership/management courses all over the world, be this in the form of one-off workshops or through attendance at post-graduate courses, such as MBAs and other specialist postgraduate management programs.
-- The pivotal decision to become a leader and learn new skills and competencies to realize this goal often occurs in real life. 
+- Setiap tahun, ribuan orang mengikuti pelatihan kepemimpinan apakah dikampus (program Doktor leadership juga ada) atau workshop yang diberikan oleh lembaga konsultan...apa artinya ini? 
+- Keputusan untuk menjadi pemimpin dan mempelajari keterampilan dan kompetensi kepemimpinan seringkali diambil setelah seseorang mengalaminya di dunia nyata.  
 
 ## Apa yang dikerjakan oleh seorang Pemimpin?
 
-- Goal setter and motivator
-- Coach and mentor
-- Shaker and stirrer
-- Interpreter
-- Linch-pin
-- Helicopter
-- White-water rafter
+- *Goal setter and motivator*: menetapkan tujuan, mengarahkan dan memotivasi, mengkomunikasikan visi dengan jelas dan berkomitmen mencapainya.
+- *Coach and mentor*: melatih dan memiliki kapasitas untuk peningkatan dan pembelajaran anggota organisasi.
+- *Shaker and stirrer*: waktunya bergerak, mendorong kreativitas dan invoasi, terus melakukan perbaikan, tidak mandeg dan puas.
+- *Interpreter*: rencana, prosedur dan informasi selalu tidak sempurna, pemimpin make sense of such situation, menjelaskan, memberi pencerahan
+- *Linch-pin*: ko-koordinator dari berbagai bagian, sub-sistem
+- *Helicopter*: naik dan melihat org secara keseluruhan dan jangka panjang
+- *White-water rafter*: pemimpin harus bisa menjelaskan dan menggambarkan masa depan yang dituju (visi) dan mendukung, mendorong sikap positif terhadap perubahan.
 
 ## Sisi Gelap Kepemimpinan
 
-- Incompetent
-- Undermining, bullying or intimidating their staff
-- Toxic personalities: impatience, arrogance, perfectionism, defensiveness, rigidity, bluntness and a large capacity for holding grudges
-- Politicians, throughout the world, seem to be particularly prone to fraud and corruption and the financial and sexual temptations that come with high office
-- Obsession with money, status, power and control 
+- Tidak kompeten
+- Merendahkan, perundungan atau mengintimidasi bawahan
+- Toxic personalities: gak sabaran, sombong...impatience, arrogance, perfectionism, defensiveness, rigidity, bluntness and a large capacity for holding grudges
+- Politikus-diseluruh dunia- cenderung dan mudah terjerumus pada perbuatan korupsi, kebohongan, manipulasi, penggelapan dan penyelewengan seks...?? 
+- Sangat terobsesi dengan uang, status, kekuasaan dan kontrol. 
 
-# TUGAS INDIVIDU
+## TUGAS INDIVIDU (1) 15 Maret 2023
 
 Pemimpin seperti apa yang Anda kagumi: dalam hal penampilan, kepribadian dan perilaku dan kompetensi? (masing-masing tiga item dan jelaskan item-item tersebut)
 
