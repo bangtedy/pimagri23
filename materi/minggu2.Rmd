@@ -1,0 +1,136 @@
+---
+title: "Kinerja Personal dan Manajemen Stress"
+output: 
+  html_document:
+    code_folding: show
+    theme:
+      bg: "#202123"
+      fg: "#B8BCC2"
+      primary: "#EA80FC"
+      secondary: "#00DAC6"
+      base_font:
+        google: Prompt
+      heading_font:
+        google: Proza Libre
+---
+
+```{r setup, include=FALSE}
+if (requireNamespace("thematic")) 
+  thematic::thematic_rmd(font = "auto")
+```
+
+## Tujuan Pembelajaran 
+
+Setelah mempelajari materi ini mahasiswa diharapkan mampu:
+
+1. To define and describe stress.
+2. To describe the nature and causes of occupational stress, and its posi-
+tive and negative effects.
+3. To identify practical strategies for dealing with work pressure and
+occupational stress
+
+## Pemimpin yang efektif:
+
+1. are aware of their physical and psychological thresholds
+2. are able to cope well with pressure, multiple job
+tasks and occupational stress
+3. can maintain a good balance between the competing demands they face at work and in their personal lives
+
+## MENGENAL GEJALA-GEJALA STRESS!
+
+STRESS --> a natural human response to
+environmental challenges (stressors) that place physical or psycholog-
+ical demands and pressures on an individual
+
+FOUR types of stress have been identified: hypostress, eustress, distress
+and hyperstress.
+
+##  30 potential stressors at work
+- lack of organizational direction and purpose;
+poor leadership; role ambiguity; role conflict; poor working conditions and ergonomics; trivial bureaucratic rules; organizational politics; lack of resources; favouritism; inequitable pay and rewards;
+obstacles to career development; lack of promotional opportunities;
+work overload and underload; interpersonal conflicts; communication breakdowns; racial, sexual, disability and age discrimination;
+‘toxic’ behaviour; bullying; coping with continual change and new
+technologies; downsizing and mergers; job moves and relocations;
+increasing job insecurity; and growing conflicts between work and
+home lives.
+
+## Stres di Tempat kerja semakin banyak ditemui:
+
+1. Fast organizational and technological change, leading to increased
+job complexity and intensity in all industrial, commercial and
+service sectors.
+2. Corporate collapses, rationalization, mergers, downsizing and
+large-scale redundancies, leading to increasing job insecurity, and
+the phasing out of the old commitment to ‘jobs for life’ in almost all
+organizations.
+3. Labour market restructuring and deregulation, and reforms to
+industrial relations and employment legislation.
+4. New demands on public sector employees, resulting from the priva-
+tization and/or deregulation of publicly owned organizations.
+5. Increasing ‘toxicity’ in some workplaces, caused by fears of the
+threat of redundancy or uncertainties about employment security
+6. Across-the-board increases in the average hours worked by many
+employees, particularly in white-collar occupations
+7. Increasing spillover between work and non-work, resulting from
+increasing numbers of women entering the workforce and the emer-
+gence of larger numbers of dual-career couples
+8. New pressures on employees caused by the current transition from
+industrial economies to ‘Third Wave’ high-tech and knowledge-
+based economies.
+9. Growing pressures on all domestic organizations, arising from the
+increasingly competitive nature of local, regional and overseas
+markets, and the globalization of trade and commerce.
+
+## Dampak Stres terhadap Kinerja
+
+### Waspadai gejala-gejala stress
+
+- losing your sense of humour or joie de vivre,
+- losing concentration or experiencing memory losses,
+- having more difficulties solving problems or making decisions at
+work,
+- feeling that you always have too much work to do or failing to meet
+work deadlines,
+- increasing level of complaints from customers or clients that you
+deal with,
+- becoming more irritable or aggressive with the people you work
+with,
+- wondering why you bother doing your current job,
+- constantly taking work home,
+- feeling that you are losing control over your life,
+- becoming aware that friends seem to be avoiding you,
+- increasing tension or arguments with your partner, spouse or children,
+- abusing alcohol, smoking or using recreational drugs,
+- regularly chewing or biting your fingernails,
+- waking up tired and/or suffering from insomnia,
+- using sleeping tablets on a regular basis,
+- not caring about your appearance,
+- binge eating or putting on weight,
+
+## Setelah itu:
+
+- Reduced higher-order brain functioning, leading to lower cognitive
+and creative functioning abilities. The fight–flight response effec-
+tively shuts down an individual’s higher-order and creative facul-
+ties until the threat has passed.
+- Greater intolerance of ambiguity and uncertainty, leading to an
+inability to cope with ‘fuzzy’ situations.
+- Reduced ability to deal with complex problems, slower decision-
+making capabilities and an increased chance of making mistakes at
+work.
+- Greater anger, impatience and hostility towards others.
+- A reduced ability to manage time, leading to the classic ‘headless-
+chicken’ mode of polyphasia (trying to do too many things at once).
+This means that tasks may not be completed on time, and the
+emergence of a self-perpetuating vicious circle with an increasing
+number of tasks to complete in less and less time.
+- Insomnia, and even more stress as a result of feeling perpetually
+tired, but not being able to sleep well and recover at night.
+
+## Kepribadian dan Stress
+
+- easy going, in control, prefer cooperation than confrontation/competition, do things at once, good listener, enjoy hearing other people opinion, calm at work, focus on a few goals, easy to relax, have other interest outside work.
+- Type A vs Type B personality
+
+## Strategi menghadapi stress di tempat kerja
