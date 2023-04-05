@@ -1,0 +1,98 @@
+---
+title: "Komunikasi di Tempat Kerja"
+author: "Tedy Herlambang"
+date: "`r Sys.Date()`"
+output:
+  prettydoc::html_pretty:
+    theme: leonids
+    highlight: github
+---
+
+## Tujuan Pembelajaran
+
+Setelah mempelajari materi ini mahasiswa diharapkan mampu:
+
+- To define ‘communication’.
+- To describe the complexities of interpersonal communication.
+- To outline practical ideas for learning to listen more actively to others and ways of resolving disagreements at work.
+- To offer practical suggestions for giving useful feedback to employees.
+- To look at organizational communication processes, and how leaders
+can communicate more effectively with their followers by using the
+ancient art of storytelling.
+- To reveal the secrets of effective formal communication skills, and
+show how public speaking can be enjoyable, persuasive and inspirational.
+- To look briefly at the complexities of cross-cultural communication in
+organizations.
+
+**Perlu diperhatikan: apa yang disampaikan disini hanyalah ringkasan dari materi yang ada dibuku referensi. Penyingkatan kalimat dan definisi sering dilakukan sehingga mungkin bisa menimbulkan salah tafsir. Mahasiswa disarankan untuk membaca buku Forster, N. (2005) Bab 3**
+
+## Pendahuluan
+
+- Leadership is communication
+- Communication has often been described as the ‘lubricating oil’ or
+‘lifeblood’ of organizations
+- The primary medium through which things get done in organizations
+- If an organization has problems with communication, the chances
+are that it will not be operating effectively.
+- If you remove communication completely, an organization cannot even start to function
+
+## Why communication causes problems?
+
+- most people are not as good at communicating as they
+like to believe they are.
+- communication encompasses the complete spectrum of indi-
+vidual personalities, life experiences and interactions with others.
+- we also communicate in a myriad of ways: in writing, memo-
+randa, letters, magazines, reports, email, video conferencing, one to
+one, in formal presentations, over the telephone, in meetings and in
+work teams.
+   + If we then add power differentials, the inevitable
+personality differences that arise in organizations, culture, politics
+and bureaucracy, gender and cross-cultural differences in communi-
+cation styles and protocols to this mix, we soon realize that the
+potential for breakdowns in communication is very high.
+
+## Interpersonal communication
+
+- Whom do you communicate with most often on an hourly, daily, weekly, monthly and yearly basis?
+- Whom do you most like communicating with? 
+- 'silent’ is an anagram of ‘listen’ as is ‘enlist’
+- The ability to listen effectively to others is the keystone of effective communication and, if we cannot do this, we will fail as communicators
+- active listening is psychologically very hard work. 
+  + This is
+because someone who is speaking can deliver about 100–125 words 
+a minute, but a listener (or reader) can process at least 500 words a
+minute.
+  + This leads to ‘idle time’, and an opportunity to start pre-formulating responses or, worse still, planning when we are going to interrupt or contradict the other person
+- many managers and leaders believe that when they come to
+work they should be ‘adult’ and ‘rational’, and not allow emotions to
+cloud their daily work and decision making
+
+## Leaders as storytellers
+
+- Throughout history, political and religious leaders have utilized story telling. 
+- They have created characters, settings and events to convey a
+particular perspective or world-view.
+- to make sense of
+cultural, philosophical or spiritual questions.
+- to give people a sense of who they were and what they might become. 
+
+## Formal communication skills
+
+- Prior, proper preparation prevents p***-poor performance.
+- Failing to prepare is preparing to fail.
+- You need no preparation to fail.
+
+## Effective presentation components:
+
+- researching the audience,
+- structuring the presentation,
+- enhancing the content of the presentation,
+- choosing which audio-visual aids to use,
+- delivering the presentation,
+- dealing with uncooperative participants.
+
+## TUGAS INDIVIDU (3) 5 April 2023
+
+
+
