@@ -1,0 +1,149 @@
+---
+title: "Motivasi, Pemberdayaan dan Kinerja Karyawan"
+author: "Tedy Herlambang"
+date: "`r Sys.Date()`"
+output:
+  prettydoc::html_pretty:
+    theme: leonids
+    highlight: github
+---
+
+## Tujuan Pembelajaran
+Setelah mempelajari materi ini mahasiswa diharapkan mampu:
+
+- To define motivation, empowerment and performance.
+- To describe a variety of theories about motivation and empowerment
+and their practical applications for leaders and managers.
+- To show how satisfaction and dissatisfaction can have a positive influ-
+ence on employee motivation and performance.
+- To look at the influence of money as a motivator, and examine the
+effects of skills-based pay, performance pay and share/stock holding
+on the motivation and performance of employees.
+- To enhance your ability to motivate, empower and inspire your follow-
+ers to higher levels of performance.
+
+*Perlu diperhatikan: apa yang disampaikan disini hanyalah ringkasan dari materi yang ada dibuku referensi. Penyingkatan kalimat dan definisi sering dilakukan sehingga mungkin bisa menimbulkan salah tafsir. Mahasiswa disarankan untuk membaca buku Forster, N. (2005) Bab 4*
+
+## Pendahuluan
+
+- People are our most important asset ---> to the extent that any organization can truly unleash the hidden value in its people ---> to get them move---> to motivate them 
+- Hedonism: people seek to maximize pleasure and minimize discomfort in their daily lives.
+- Motivation in an organizational context is the processes that increase or decrease an individual’s desire and commitment to achieve personal and organizational goals.
+- Performance is defined here as the successful completion of a task, action or process at work.
+- Empowerment is the dual process of giving power to followers, while simultaneously developing the skills and competencies they will need to take on new roles and responsibilities.
+
+## Factors associated with improving employee motivation and performance
+
+- Job security
+_____
+_____
+- Recognition and appreciation
+_____
+_____
+- Sense of involvement with company
+_____
+_____
+- Personal development and learning
+_____
+_____
+- Opportunities for promotion
+_____
+_____
+- Working for a successful company
+_____
+_____
+- Variety at work
+_____
+_____
+- High pay
+_____
+_____
+- Good working conditions
+_____
+_____
+- Creative and interesting work
+_____
+_____
+- Personal autonomy
+_____
+_____
+- Supportive and helpful boss
+_____
+_____
+- Clear goals and objectives
+_____
+_____
+- Equitable rewards for good work performance
+_____
+_____
+- Healthy corporate culture and climate
+_____
+_____
+
+## Theories of motivation: content and process
+
+# I. Content theories
+
+-  There are four content theories:
+    + Maslow’s Hierarchy of Needs
+    + ERG theory
+    + Herzberg’s Two Factor theory
+    + McClelland’s Achievement Motivation theory
+    
+## Maslow’s Hierarchy of Needs
+
+- physiological needs (food, water, shelter, sex and rest),
+- safety needs (security and protection from threats from the environment),
+- social needs (love, affection, friendship and social interaction with
+other people),
+- esteem needs (attention, recognition, self-respect, achievement, autonomy and status),
+- self-actualization (psychological growth, self-expression, self-fulfilment and the full realization of individual potential).
+
+## McClelland’s Achievement Motivation theory
+
+- need for achievement: a learnt need to excel and succeed in life, 
+- need for power: a learnt need to lead and change the behaviours and beliefs of others, - need for affiliation: a learnt need for social interaction with others.
+- McClelland’s pioneering work:
+  + intrinsic motivation is far more powerful in promoting performance when compared to extrinsic motivation. 
+  - An employee can be said to be intrinsically motivated if she participates enthusiastically in work activities without receiving any apparent extrinsic rewards.      + Extrinsic motivation refers to behav iour that is driven by external rewards and stimuli.
+
+## Four practical implications of content theories for leaders and managers
+
+1. how to create well-designed work environments that provide people with the opportunities to realize their needs through their work and by contributing to the task performance of their team, department and organization;
+2. how individual differences will shape the personal needs of their staff, and how these change and evolve over time;
+3. how these needs shape what different employees expect from their leaders, supervisors, colleagues and subordinates;
+4. how almost all employees prefer some power and control over their work, and welcome opportunities for personal development and growth at work.
+
+## Content theory practical implications: 
+- Jobs should be made as challenging as possible, and people should be continually encouraged to improve their skills bases, education and knowledge levels. 
+- The most enjoyable and rewarding jobs are those where employees have as much freedom as possible to carry out their work without direct command-and-control supervision, providing they have adequate skills and knowledge to cope with this.
+
+# II. Process theories: GE, Goal setting, Equity
+- These theories approach motivation by striving to understand how the conscious thought processes and decisions of individuals influence their motivation levels
+
+## General expectancy (GE)
+- if expectations are matched by anticipated and/or desired outcomes, then motivation levels will be increased, and vice versa
+
+## Goal setting
+- Goal setting is a technique with a long history in sport
+- Used effectively, goal setting can increase self-confidence and reduce performance anxiety
+- an iterative effect on employees: as people achieve goals, their confidence and self-belief grows, and they are then able to aim for higher goals and levels of achievement
+- Goals setting ---> SMARTER: Specific – Measurable – Agreed –
+Realistic – Time framed – Evaluated – Resourced
+
+## Equity
+- This theory suggests that motivation is the outcome of the equity that
+individuals perceive between the effort they put into a job and the
+rewards they receive, when compared with the efforts and rewards of
+co-workers, or others in similar jobs and occupations.
+- A lack of perceived equity, in effort expended and rewards received, will lead to
+reduced levels of motivation over time.
+
+
+### Tugas Individu (4) 12 April 2023
+
+Money as a motivator:
+
+- Diskusikan kelebihan dan kekurangan penggunaan uang sebagai insentif untuk meningkatkan motivasi dan kinerja karyawan!
+- Diskusikan apa yang dapat dilakukan seorang pemimpin untuk melengkapi kelemahan penggunaan uang sebagai alat memotivasi karyawan!
+
